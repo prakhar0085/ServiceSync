@@ -2,6 +2,7 @@
 **Modern On-Demand Home Services Booking Platform**
 
 ServiceSync is a full-stack MERN application that connects customers with service professionals (cleaners, plumbers, electricians) in real-time. It features a premium, optimistic UI, role-based dashboards, and an intelligent scheduling system.
+🌐 **Live Demo:** [https://serviceSync.com ](https://servicesync-frontend.onrender.com)
 
 ---
 
