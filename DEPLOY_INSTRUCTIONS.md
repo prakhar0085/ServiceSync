@@ -24,7 +24,7 @@ The backend needs a persistent environment for the scheduler to work.
     -   Scroll down to "Environment Variables" and add:
         -   `MONGO_URI`: Your MongoDB connection string.
         -   `JWT_SECRET`: Your secret key for JWT.
-        -   `PORT`: `10000` (Render sets this automatically, but good to be aware).
+        -   (Optional) `PORT`: `10000` (Render sets this automatically, so you usually don't need to add this).
 6.  Click **Create Web Service**.
 7.  Wait for the deployment to finish. **Copy the Backend URL** (e.g., `https://servicesync-backend.onrender.com`). You will need this for the frontend.
 
